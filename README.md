@@ -1,2 +1,4 @@
 # hello-world
-ayo
+Hello world, 
+ 
+First time GitHub, whadup!
